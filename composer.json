@@ -1,0 +1,14 @@
+{
+    "name": "bine/rinha-de-backend-2024-q1-react-php",
+    "authors": [
+        {
+            "name": "Gianluca Bine",
+            "email": "gian_bine@hotmail.com"
+        }
+    ],
+    "require": {
+        "react/http": "^1.9",
+        "react/socket": "^1.15",
+        "tnapf/router": "^6.0"
+    }
+}
